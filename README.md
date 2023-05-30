@@ -1,15 +1,16 @@
-# Профиль
+# Profile
 
-## Стек
+## Stack
 
-- Языки программирования:
+- Programming Languages:
   - Python
   - HTML
   - CSS
   - JavaScript
 
-## Фреймворки
+## Frameworks
 
 - React
 - FastAPI
 - Django
+- DRF
