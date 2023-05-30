@@ -7,6 +7,7 @@
   - HTML
   - CSS
   - JavaScript
+  - C++ (learning)
 
 ## Frameworks
 
