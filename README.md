@@ -1,6 +1,6 @@
 # Profile
 
-## Stack
+
 
 - Programming Languages:
   - Python
