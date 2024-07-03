@@ -6,9 +6,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JustGithubProject&show_icons=true&theme=gotham" alt="JustGithubProject" />
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
 
 <p align="center">
   <a href="python.org">
