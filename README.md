@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="mailto:ashutosh.saxena.2001@gmail.com">
-    <img align="left" alt="Python" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" />
+    <img align="center" alt="Python" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" />
   </a>
 </p>
