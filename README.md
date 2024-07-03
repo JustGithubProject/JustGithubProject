@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="python.org">
-    <img align="center" alt="Python" width="300" height="300" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" />
+    <img align="center" alt="Python" width="300" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" />
   </a>
 </p>
