@@ -1,1 +1,3 @@
-![image](https://github.com/JustGithubProject/JustGithubProject/assets/112800849/4ad5f6a3-45d8-47ad-b63d-8bdb40d06a11)
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
