@@ -15,6 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustGithubProject&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <h3 align="center">🛠 Technologies:</h3>
 
 <div align="center">
@@ -52,7 +53,7 @@
   <img width="12" />
 </div>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
 
 
 
