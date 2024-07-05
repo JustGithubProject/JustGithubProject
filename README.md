@@ -53,6 +53,7 @@
   <img width="12" />
 </div>
 
+<img alt="JustGithubProject's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=JustGithubProject&theme=dark"/>
 
 
 
