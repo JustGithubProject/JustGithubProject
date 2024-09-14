@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JustGithubProject&](https://api.github.com/legacy/user/search/followers:1?sort=public_repo_count&order=asc&start_page=#1" alt="JustGithubProject" />
+  <img align="center" src="https://api.github.com/legacy/user/search/followers:1?sort=public_repo_count&order=asc&start_page=#1" alt="JustGithubProject" />
 </p>
 
 
