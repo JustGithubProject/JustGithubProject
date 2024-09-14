@@ -5,9 +5,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JustGithubProject&" alt="JustGithubProject" />
 </p>
 
-
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Staid123&" alt="Staid123" />
-</p>
-
