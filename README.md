@@ -5,43 +5,6 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="Side Image" align="right" width="200" height="auto" />
 
 ---
-
-## 🚀 Technologies
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=golang" height="40" alt="Go" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
-</div>
-
 ---
 
 <p align="center">
