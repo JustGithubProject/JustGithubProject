@@ -1,3 +1,4 @@
+![banner](banner.png)
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="Side Image" align="right" width="200" height="auto" />
 
 
